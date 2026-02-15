@@ -169,8 +169,8 @@ SupaDev's Intelligent Router can leverage **Bedrock's model catalog** to pick th
 
 ## Slide 11: Business Model & Go-to-Market 📈
 
-**Freemium Model:**
-- **Free tier:** Full IDE + 50 AI queries/day (community)
+**Pricing Model:**
+- **Trial:** Full IDE + 50 AI queries/day (community)
 - **Pro ($10/mo):** Unlimited AI + agentic pipelines + priority models
 - **Team ($25/user/mo):** Shared pipelines + collaboration + cloud deploy
 
